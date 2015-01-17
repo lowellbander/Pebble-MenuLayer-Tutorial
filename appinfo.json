@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lowellbander@gmail.com",
+    "longName": "MenuLayer Tutorial",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "MenuLayer Tutorial",
+    "uuid": "1ed3bfef-7be2-42d5-9c08-363182e98d3c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
